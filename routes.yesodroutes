@@ -1,0 +1,3 @@
+/              HomeR GET
+/auth/register RegisterR POST
+/auth/login LoginR POST
